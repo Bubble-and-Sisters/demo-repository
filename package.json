@@ -10,6 +10,9 @@
   },
   "license": "MIT"
 }
+@Bubbles-and-Sisters:registry=https://npm.pkg.github.com
+@Bubbles-and-Sisters:registry=https://npm.pkg.github.com
+@Bubbles-and-Sisters:registry=https://npm.pkg.github.com
 {
   "name": "@my-org/server",
   "version": "1.0.0",
